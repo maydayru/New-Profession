@@ -1,4 +1,4 @@
-# NewProfession2
+# New Profession
 This project was made for final exam at baccalaureate.
 
 Functions: register, auth, add, edit, delete subjects, students and lecturers.
